@@ -1,2 +1,1 @@
-# Gemini_presenter
-Make presentations using gemini API
+# AI-Presentation-Maker-Gemini-Pro
